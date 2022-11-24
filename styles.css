@@ -25,5 +25,11 @@ footer li {
 }
 
 section {
-    
+    border-bottom: 10px;
+
+}
+
+p {
+    font-weight: 700;
+    font-size: 1rem;
 }
